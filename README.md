@@ -7,3 +7,6 @@
 - **So, fasten your seatbelts and get ready to embark on an exciting adventure of data exploration and analysis with Amazing Mart dataset and Power BI!**
 
 - **_Disclaimer_** ⚠️- _All datasets and reports do not represent any real trading company or organization but just a dummy dataset to demonstrate my strengths and capacity with Microsoft Power BI._
+
+
+- Interact with the dashboard ![here](https://app.powerbi.com/groups/me/reports/b71c7d9e-bc73-490f-8d5e-03bf80791ddb/ReportSection?openReportSource=Commenting&experience=power-bi&bookmarkGuid=Bookmark2b63435267b914d74962)
