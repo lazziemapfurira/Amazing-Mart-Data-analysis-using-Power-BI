@@ -11,3 +11,9 @@
 
 
 - Interact with the dashboard [Click Here](https://app.powerbi.com/groups/me/reports/c006754c-8114-4c00-8f62-b8cbb74292a5/ReportSection?experience=power-bi)
+
+- 
+
+- Objectives:
+        -  Analyze the sales data of Amazing Mart to identify trends, patterns, and factors influencing revenue and profitability.
+        -  Evaluate the performance of different product categories or individual products within Amazing Mart. Identify top-selling products, analyze their contribution to revenue and profit, and assess their growth potential
