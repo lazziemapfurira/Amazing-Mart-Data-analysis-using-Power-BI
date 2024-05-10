@@ -57,19 +57,14 @@
  ### Data transformation
  - Removed missing values which did not affect my analysis since they were only 7 missing values in a dataset with 8051 rows
  - Created calculated columns and  measures
-       - ##### Discount Revenue:
+    -  Discount Revenue:
          -  <pre><code id="sqlQuery">CODE:✍️ Discount Revenue = OrderBreakdown[Discount] * OrderBreakdown[Sales] </code></pre><button class="btn" data-clipboard-target="#sqlQuery">
           
-       - ##### Selling Price :
+    - Selling Price :
          -  <pre><code id="sqlQuery">CODE:✍️ Selling Price = OrderBreakdown[Sales]/OrderBreakdown[Quantity] </code></pre><button class="btn" data-clipboard-target="#sqlQuery">
 
    - #####  Number of days for shipment delivery:
       -  <pre><code id="sqlQuery">CODE:✍️ Days to Ship Product = DATEDIFF(ListOfOrders[Order Date],ListOfOrders[Ship Date],DAY) </code></pre><button class="btn" data-clipboard-target="#sqlQuery">
-
-   - #####  Sales YOY%:
-      -  <pre><code id="sqlQuery">CODE:✍️ Sales YoY% = IF(ISFILTERED('ListOfOrders'[Order Date]),
-	ERROR("Time intelligence quick measures can only be grouped or filtered by the Power BI-provided date hierarchy or primary date column."),
-	VAR __PREV_YEAR =CALCULATE(SUM('OrderBreakdown'[Sales]),DATEADD('ListOfOrders'[Order Date].[Date], -1, YEAR))RETURN  DIVIDE(SUM('OrderBreakdown'[Sales]) - __PREV_YEAR, __PREV_YEAR) ) </code></pre><button class="btn" data-clipboard-target="#sqlQuery">
        
 
 
