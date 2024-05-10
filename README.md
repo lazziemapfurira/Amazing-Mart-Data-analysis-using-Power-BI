@@ -94,7 +94,7 @@
    
 
 ### Thank you for taking your time to go through my project
-![](Thank_you.png)
+![](Thank_you.jpeg)
 
 
 
