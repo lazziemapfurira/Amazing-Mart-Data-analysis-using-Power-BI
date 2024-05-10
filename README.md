@@ -65,6 +65,11 @@
 
    - #####  Number of days for shipment delivery:
       -  <pre><code id="sqlQuery">CODE:✍️ Days to Ship Product = DATEDIFF(ListOfOrders[Order Date],ListOfOrders[Ship Date],DAY) </code></pre><button class="btn" data-clipboard-target="#sqlQuery">
+
+ ---
+
+### Data analysis and Visualisation
+![](Overview.png)
        
 
 
