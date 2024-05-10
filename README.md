@@ -36,7 +36,7 @@
 
  ***
 
-### Skills and concepts Demostrated
+#### Skills and concepts Demostrated
  - Data cleaning( *using Power Query*)
  - Calculated Columns
  - Data Analysis Expression (*DAX*) Functions
@@ -44,9 +44,15 @@
  - Data Visualisation
  - Data Modelling (*Star schema*)
  - Data Drill through(*for Product, Discount and Countries detailed view*)
- - 
- - 
 
-## Data cleaning
+
+### Data source
+- Data downloaded [here](https://github.com/pavanjuturu/Tableau/blob/master/AmazingMartEU2.xlsx)
+- Although it might look a bit different as i  made some alterations here and there to meet my objectives and goals
+  ##### Contents of the data:
+  - 2 workbooks related with primary keys and foreign keys.
+  - The workbooks contained information about customers orders around the globe, product categories, Discounts offered per sale, shipping details, just to mention a few.
+
+
 
 
