@@ -9,9 +9,10 @@
 
 > [!NOTE] ⚠️- _All datasets and reports do not represent any real trading company or organization but just a dummy dataset to demonstrate my strengths and capacity with Microsoft Power BI._
 
+---
 
 - Interact with the dashboard [Click Here](https://app.powerbi.com/groups/me/reports/c006754c-8114-4c00-8f62-b8cbb74292a5/ReportSection?experience=power-bi)
-
+---
 ##### Table of Contents  
 [Objectives](#Objectives)  
 [Emphasis](#emphasis)  
