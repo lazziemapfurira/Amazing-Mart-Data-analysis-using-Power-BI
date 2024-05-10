@@ -78,7 +78,7 @@
 
   ### Discount Impact Page
   ![](Discount.png)
-
+---
   #### Insights and Recommendations
   - Discount Strategy:
      - Despite running at a loss, discounts at 40%, 50%, and 60% generate low revenue, indicating their ineffectiveness in driving sales volume.
@@ -92,7 +92,7 @@
      - Identify customers with the highest frequency of repeated orders, averaging 32 orders annually.
      - *Recomendation* Analyze their purchasing behavior, preferences, and demographics to understand the factors driving their loyalty and Implement targeted retention strategies, such as personalized offers, loyalty programs, or excellent customer service, to nurture and expand this loyal customer base.
    
-
+---
 ### Thank you for taking your time to go through my project
 ![](Thank_you.jpeg)
 
