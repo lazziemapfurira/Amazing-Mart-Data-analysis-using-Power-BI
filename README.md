@@ -68,17 +68,12 @@
 
    - #####  Sales YOY%:
       -  <pre><code id="sqlQuery">CODE:✍️ Sales YoY% = 
-IF(
-	ISFILTERED('ListOfOrders'[Order Date]),
+IF(ISFILTERED('ListOfOrders'[Order Date]),
 	ERROR("Time intelligence quick measures can only be grouped or filtered by the Power BI-provided date hierarchy or primary date column."),
 	VAR __PREV_YEAR =
-		CALCULATE(
-			SUM('OrderBreakdown'[Sales]),
-			DATEADD('ListOfOrders'[Order Date].[Date], -1, YEAR)
-		)
-	RETURN
-		DIVIDE(SUM('OrderBreakdown'[Sales]) - __PREV_YEAR, __PREV_YEAR)
-) </code></pre><button class="btn" data-clipboard-target="#sqlQuery">
+		CALCULATE(SUM('OrderBreakdown'[Sales]),
+			DATEADD('ListOfOrders'[Order Date].[Date], -1, YEAR))
+	RETURN  DIVIDE(SUM('OrderBreakdown'[Sales]) - __PREV_YEAR, __PREV_YEAR) ) </code></pre><button class="btn" data-clipboard-target="#sqlQuery">
        
 
 
