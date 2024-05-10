@@ -59,9 +59,10 @@
  - Created calculated columns and  measures
      - Calculated columns:
        - ###### Discount Revenue:
-          CODE:✍️ Discount Revenue = OrderBreakdown[Discount] * OrderBreakdown[Sales]
+         -  <pre><code id="sqlQuery">CODE:✍️ Discount Revenue = OrderBreakdown[Discount] * OrderBreakdown[Sales] </code></pre><button class="btn" data-clipboard-target="#sqlQuery">
+          
        - ##### Selling Price :
-          -   CODE:✍️ Selling Price = OrderBreakdown[Sales]/OrderBreakdown[Quantity]
+         -  <pre><code id="sqlQuery">CODE:✍️ Selling Price = OrderBreakdown[Sales]/OrderBreakdown[Quantity] </code></pre><button class="btn" data-clipboard-target="#sqlQuery">
        
 
 
