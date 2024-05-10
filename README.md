@@ -14,10 +14,10 @@
 ---
 ##### Table of Contents  
 [Objectives](objectives)  
-[Emphasis](#emphasis)  
+[Skills and concepts Demostrateds](#Skills and concepts Demostrated)  
 ...snip...    
 <a name="headers"/>
-## Headers
+
 
 
 ***
@@ -69,8 +69,18 @@
  ---
 
 ### Data analysis and visualisation
+- To answer the questions i drafted at the begining of the project, i currated a 6 pages dashboard(*only 3 visible*)
+  ### Overview Page
 ![](Overview_.png)
-       
+
+  ### Revenue Page
+  ![](Revenue.png)
+
+  ### Discount Impact Page
+  ![](Discount.png)
+   
+  
+        
 
 
 
