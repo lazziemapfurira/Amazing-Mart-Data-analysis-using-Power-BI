@@ -52,6 +52,17 @@
   ##### Contents of the data:
   - 2 workbooks related with primary keys and foreign keys.
   - The workbooks contained information about customers orders around the globe, product categories, Discounts offered per sale, shipping details, just to mention a few.
+ 
+ ---
+ ### Data transformation
+ - Removed missing values which did not affect my analysis since they were only 7 missing values in a dataset with 8051 rows
+ - Created calculated columns and  measures
+     - Calculated columns:
+       - Discount Revenue:
+         - <pre><code id="sqlQuery"> CODE:✍️
+Discount Revenue = OrderBreakdown[Discount] * OrderBreakdown[Sales]
+     )
+       
 
 
 
