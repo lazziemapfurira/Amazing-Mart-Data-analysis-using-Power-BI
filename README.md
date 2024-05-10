@@ -58,10 +58,10 @@
  - Removed missing values which did not affect my analysis since they were only 7 missing values in a dataset with 8051 rows
  - Created calculated columns and  measures
      - Calculated columns:
-       - Discount Revenue:
-         - <pre><code id="sqlQuery"> CODE:✍️ Discount Revenue = OrderBreakdown[Discount] * OrderBreakdown[Sales]
-       - Selling Price :
-          -  <pre><code id="sqlQuery"> CODE:✍️ Selling Price = OrderBreakdown[Sales]/OrderBreakdown[Quantity]
+       - ###### Discount Revenue:
+          CODE:✍️ Discount Revenue = OrderBreakdown[Discount] * OrderBreakdown[Sales]
+       - ##### Selling Price :
+          -   CODE:✍️ Selling Price = OrderBreakdown[Sales]/OrderBreakdown[Quantity]
        
 
 
