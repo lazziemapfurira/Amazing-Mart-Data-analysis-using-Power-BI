@@ -36,7 +36,16 @@
 
  ***
 
-
+### Skills and concepts Demostrated
+ - Data cleaning( *using Power Query*)
+ - Calculated Columns
+ - Data Analysis Expression (*DAX*) Functions
+ - Dashboard design
+ - Data Visualisation
+ - Data Modelling (*Star schema*)
+ - Data Drill through(*for Product, Discount and Countries detailed view*)
+ - 
+ - 
 
 ## Data cleaning
 
