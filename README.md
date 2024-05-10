@@ -78,6 +78,8 @@
 
   ### Discount Impact Page
   ![](Discount.png)
+
+  
 ---
   #### Insights and Recommendations
   - Discount Strategy:
