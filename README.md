@@ -67,8 +67,7 @@
       -  <pre><code id="sqlQuery">CODE:✍️ Days to Ship Product = DATEDIFF(ListOfOrders[Order Date],ListOfOrders[Ship Date],DAY) </code></pre><button class="btn" data-clipboard-target="#sqlQuery">
 
    - #####  Sales YOY%:
-      -  <pre><code id="sqlQuery">CODE:✍️ Sales YoY% = 
-IF(ISFILTERED('ListOfOrders'[Order Date]),
+      -  <pre><code id="sqlQuery">CODE:✍️ Sales YoY% = IF(ISFILTERED('ListOfOrders'[Order Date]),
 	ERROR("Time intelligence quick measures can only be grouped or filtered by the Power BI-provided date hierarchy or primary date column."),
 	VAR __PREV_YEAR =
 		CALCULATE(SUM('OrderBreakdown'[Sales]),
