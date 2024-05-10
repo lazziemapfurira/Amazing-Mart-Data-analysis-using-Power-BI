@@ -78,6 +78,18 @@
 
   ### Discount Impact Page
   ![](Discount.png)
+
+  #### Insights and Recommendations
+  - Discount Strategy:
+         - Despite running at a loss, discounts at 40%, 50%, and 60% generate low revenue, indicating their ineffectiveness in driving sales volume.
+         - *Recomendation*: Analyze the profitability of discounted products and assess their contribution to overall revenue, and Optimize discount levels based on product categories or customer segments that respond well to these discounts.
+
+  - Top Income Generating Products:
+        -  Bookcases, copiers, and phones are the highest income generating products for Amazing Mart.
+        - *Recomendatiosn* : Analyze the factors that contribute to the success of these products, such as customer demand, competitive advantages, or marketing efforts and Allocate resources and marketing efforts to promote and expand these high-performing product categories further.
+  - Customer Loyalty:
+        - Identify customers with the highest frequency of repeated orders, averaging 32 orders annually.
+        - *Recomendation* Analyze their purchasing behavior, preferences, and demographics to understand the factors driving their loyalty and Implement targeted retention strategies, such as personalized offers, loyalty programs, or excellent customer service, to nurture and expand this loyal customer base.
    
   
         
