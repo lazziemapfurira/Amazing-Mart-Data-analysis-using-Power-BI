@@ -68,7 +68,7 @@
 
  ---
 
-### Data analysis and Visualisation
+### Data analysis and visualisation
 ![](Overview.png)
        
 
