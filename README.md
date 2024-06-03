@@ -1,4 +1,4 @@
-# Amazing-Mart-Data-analysis-using-Power-BI
+ # Amazing-Mart-Data-analysis-using-Power-BI
  ![](https://th.bing.com/th/id/OIP.KJR7866fPDGUmo-Bc_pgtQHaHa?rs=1&pid=ImgDetMain)
  
  - Picture [Source](https://th.bing.com/th?id=OIP.KJR7866fPDGUmo-Bc_pgtQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2***)
@@ -71,7 +71,7 @@
 ### Data analysis and visualisation
 - To answer the questions i drafted at the begining of the project, i currated a 6 pages dashboard(*only 3 visible*)
   ### Overview Page
-![](Overview_.png)
+![](overview.png)
 
 
   ### Revenue Page
@@ -80,7 +80,7 @@
 
 
   ### Discount Impact Page
-  ![](Discount.png)
+  ![](discount.png)
 
   
 ---
